@@ -8,6 +8,8 @@ This project is a Spring Boot-based RESTful API for managing a collection of boo
 - **Search Functionality**: Search books by title or author.
 - **Sort Books**: Sort books alphabetically by title or by publication year.
 - **HATEOAS Support**: Utilizes HATEOAS to provide links to related resources.
+- **Basic Authentication**: Implements basic Spring authentication using `SecurityFilterChain`.
+- **Error Handling**: Custom error handling for exceptions and method argument validation errors.
 
 ## Endpoints
 
